@@ -34,7 +34,7 @@ RegisterNumber: 212222100005
 */
 ```
 ## MainActivity.java:
-```
+```java
 package com.example.ex7;
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -85,7 +85,7 @@ public class MainActivity extends AppCompatActivity {
 </RelativeLayout>
 ```
 ## AndroidMainfest.xml
-```
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
